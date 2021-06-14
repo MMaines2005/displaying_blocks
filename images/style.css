@@ -1,20 +1,19 @@
 .container{
     
     width: 600px;
-    min-height: 100px;
+    height: 700px;
     background-color: bisque;
+    /* display: flex; */
 }
 img{
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
 }
 
 .row{
-    display: inline-block;
-    align-content: center;
+    display: inline;
     background-color: bisque;
-    margin: 20px;
-    padding: 20px;
+    position: absolute;
 
 }
 
